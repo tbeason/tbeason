@@ -1,4 +1,4 @@
-### Tyler Beason
+I mostly write programs related to finance and financial research.
 
-I mostly write programs related finance and financial research.
+[Julia](https://julialang.org) is what makes that not suck.
 
